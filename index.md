@@ -1,6 +1,6 @@
 ## Chytrid Genomic Resources
 
-[Table](genome_projects.csv) of Available and In Progress Genomes and Transcriptomes.
+* [Table](genome_projects) of Available and In Progress Genomes and Transcriptomes. [Raw CSV](_data/genome_projects.csv)
 
 ## Team Chytrid
 
