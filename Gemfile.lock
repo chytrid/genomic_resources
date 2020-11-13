@@ -276,6 +276,7 @@ DEPENDENCIES
   jekyll
   jekyll-include-cache
   jekyll-remote-theme
+  minima
   nokogiri
   rack (~> 2.0.1)
   rspec

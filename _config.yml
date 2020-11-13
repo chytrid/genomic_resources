@@ -1,4 +1,4 @@
-remote_theme: benbalter/retlab
+theme: minima
 title: Chytrid Data Resources
 description: Support for Chytrid Genome and related projects
 plugins:
