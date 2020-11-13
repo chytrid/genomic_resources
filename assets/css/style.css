@@ -2,3 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
+
+li { list-style: none; }
+li > ul { margin-left: 0; }

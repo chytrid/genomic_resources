@@ -1,7 +1,7 @@
 ---
 title: Genome Projects and Resources
 ---
-
+<div>
 <table>
   {% for row in site.data.genome_projects %}
     {% if forloop.first %}
@@ -17,3 +17,4 @@ title: Genome Projects and Resources
     {% endtablerow %}
   {% endfor %}
 </table>
+</div>
